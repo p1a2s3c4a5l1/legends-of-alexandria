@@ -7,4 +7,10 @@ package net.nagagames.legendsofalexandria.card;
  */
 
 abstract class Card {
+
+    int durability;
+    final static int BITMASK_DURABILITY = 0xFFFF0000;
+
+
+
 }
