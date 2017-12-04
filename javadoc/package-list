@@ -1,8 +1,10 @@
-net.nagagames.legendsofalexandria
 net.nagagames.legendsofalexandria.card
 net.nagagames.legendsofalexandria.card.draw
 net.nagagames.legendsofalexandria.card.types
 net.nagagames.legendsofalexandria.entity
+net.nagagames.legendsofalexandria.entity.sprite
 net.nagagames.legendsofalexandria.inventory
 net.nagagames.legendsofalexandria.match
+net.nagagames.legendsofalexandria.match.effect
 net.nagagames.legendsofalexandria.menu
+net.nagagames.legendsofalexandria.menu.ui
