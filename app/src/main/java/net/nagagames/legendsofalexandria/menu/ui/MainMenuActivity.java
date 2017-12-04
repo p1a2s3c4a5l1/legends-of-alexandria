@@ -1,11 +1,18 @@
-package net.nagagames.legendsofalexandria.menu;
+package net.nagagames.legendsofalexandria.menu.ui;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import net.nagagames.legendsofalexandria.R;
 
-public class MainMenuActivity extends AppCompatActivity {
+
+/**
+ * This is becoming the main menu screen
+ *
+ * @author Raphael Million
+ */
+public class MainMenuActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
