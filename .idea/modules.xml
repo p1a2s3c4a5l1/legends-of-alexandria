@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LegendsofAlexandria.iml" filepath="$PROJECT_DIR$/LegendsofAlexandria.iml" />
+      <module fileurl="file://C:\Users\Pascal\Documents\GitHub\legends-of-alexandria\LegendsofAlexandria.iml" filepath="C:\Users\Pascal\Documents\GitHub\legends-of-alexandria\LegendsofAlexandria.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legends-of-alexandria.iml" filepath="$PROJECT_DIR$/legends-of-alexandria.iml" />
     </modules>
   </component>
 </project>
